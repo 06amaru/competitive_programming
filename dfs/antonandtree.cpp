@@ -59,6 +59,7 @@ int main()
         white_operation++;
     }
     
+    
     int black_operation = 0;
     while(!set_white.empty()) 
     {
